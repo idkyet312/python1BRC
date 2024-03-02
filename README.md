@@ -10,7 +10,7 @@ the 1 Billion row challenge for python v0.1
 - **Average Sys Time:** 0.220 seconds
 - **Fastest Real Time:** 6.597 seconds
 
-### BRC2.py: (Group B)
+### BRC2.py: (Group B) -- with multiprocessing and pools
 
 - **Average Real Time:** 0.186 seconds
 - **Average User Time:** 0.278 seconds
