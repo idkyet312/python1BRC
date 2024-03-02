@@ -30,7 +30,7 @@ def GroupByStation(Chunk):
 
 
 if __name__ == '__main__':
-  numprocesses = 8
+  numprocesses = 4
   lines = open("measurements.txt", "r").readlines()
   chunk_size = len(lines) // numprocesses
   chunks = [lines[i:i + chunk_size] for i in range(0, len(lines), chunk_size)]
