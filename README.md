@@ -1,5 +1,5 @@
 # python1BRC
-the 1 Billion row challenge for python v0.1
+the 1 Billion row challenge for python v0.1 (using a 10k line file for testing will put up the 1 billion line one soon)
 
 ## Performance Comparison
 
